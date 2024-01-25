@@ -1,0 +1,4 @@
+Customer's Name: onik ti
+Customer's Address: rrg
+Customer's Phone Number: 18
+Total Bill Amount: 600 tk
